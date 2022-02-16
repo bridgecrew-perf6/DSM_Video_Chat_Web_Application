@@ -1,0 +1,21 @@
+Commands:
+python -m venv venv # creating a virtual environment
+venv\Scripts\activate.bat # activating virtual environment
+python -m pip install --upgrade pip # upgrading pip command
+pip install Django==4.0.2 # installing django latest version
+python -m django --version # command to check version of Django
+django-admin startproject myapp # creaing django project using django admin
+python manage.py startapp chat # to start app
+python manage.py runserver # to run our app
+python manage.py migrate # if we get some migration issues warning run this
+python manage.py createsuperuser
+
+python manage.py changepassword <user_name>
+
+pip install -r requirements.txt
+
+
+reference links:
+# django channels : https://channels.readthedocs.io/en/stable/installation.html
+
+1:9:27 : https://youtu.be/MBOlZMLaQ8g
