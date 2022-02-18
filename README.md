@@ -10,6 +10,8 @@ The main purpose of video conferencing is to enable face-to-face communication b
 
 Youtube Video Link [Click here...](https://youtu.be/6dKbLnG0Or4) 
 
+![Logo](https://media.giphy.com/media/l1WR5hEkNhESWpY6td/giphy-downsized-large.gif)
+
 ## 👨 Author
 
 - [@saikumarreddykorsapati-source](https://github.com/saikumarreddykorsapati-source)
