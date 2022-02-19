@@ -44,6 +44,8 @@ Architecture : [Link - Click here...](https://github.com/saikumarreddykorsapati-
 
 Deployed App Demo : [Link - Click here...](https://django-video-conference-app.herokuapp.com)
 
+[Linked in Post](https://www.linkedin.com/posts/sai-kumar-reddy-korsapati_django-python-challenge4-activity-6900547642061934592-VTjA)
+
 ## 📎 Features
 
 - Video
