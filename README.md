@@ -51,7 +51,7 @@ Deployed App Demo : [Link - Click here...](https://django-video-conference-app.h
 - Video
 - Audio
 - Screen Share
-- Start / Stop Controlls
+- Start / Stop Controls
 
 
 ## 📌 Installation
